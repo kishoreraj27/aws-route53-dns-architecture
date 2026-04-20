@@ -140,7 +140,7 @@ nslookup db.prod.internal
 **Kishore Raj**
 
 - LinkedIn: https://www.linkedin.com/in/kishoreraj2709
-- GitHub: https://github.com/kishore9080
+- GitHub: https://github.com/kishoreraj27
 
 ---
 
